@@ -2,7 +2,6 @@
 
 Esot3riA's T0D0 Web Application based on MERN(MongoDB-Express-React-NodeJS) Stack.
 
-----------------
 ### Requirements
 
 * Yarn
@@ -11,8 +10,7 @@ Esot3riA's T0D0 Web Application based on MERN(MongoDB-Express-React-NodeJS) Stac
 * Express
 * React
 
-----------------
-### Usage
+## Usage
 
 1. Start DB.
 ```
@@ -33,8 +31,7 @@ yarn start
 4. Connect https://esot3ria.run.goorm.io
 5. That's it!
 
-----------------
-### Screenshots
+## Screenshots
 
 ![pc](./img/pc.png)
 
