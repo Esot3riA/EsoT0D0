@@ -18,13 +18,13 @@ service mongodb start
 ```
 2. Install Dependencies and Start EsoT0D0 Restful API Server.
 ```
-cd EsoT0D0
+cd EsoT0D0-Server
 yarn install
 yarn start &
 ```
 3. Install Dependencies and Start EsoT0D0 Client.
 ```
-cd ../Esot0D0
+cd ../EsoT0D0
 yarn install
 yarn start
 ```
